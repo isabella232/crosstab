@@ -1,3 +1,8 @@
+### ⚠️ This repo is archived ⚠️ 
+
+There are no plans for the Mapbox team to work on this project. Check out the original crosstab project instead.
+
+
 # crosstab [![NPM version][npm-img]][npm-url] [![Build Status][travis-img]][travis-url]
 
 [![Join the chat at https://gitter.im/tejacques/crosstab](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tejacques/crosstab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
